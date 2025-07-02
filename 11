@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>松下昇太郎の自己紹介</title>
+    <style>
+        body {
+            font-family: 'Arial', 'Meiryo', sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e9e9e9;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ccc;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>松下昇太郎の自己紹介</h1>
+        <p>こんにちは、松下昇太郎です！このページを訪れてくださり、ありがとうございます。</p>
+
+        <h2>基本情報</h2>
+        <ul>
+            <li><strong>名前:</strong> 松下 昇太郎 (Shoutarou Matsushita)</li>
+            <li><strong>出身:</strong> 神奈川県</li>
+            <li><strong>職業:</strong> Webデベロッパー志望</li>
+        </ul>
+
+        <h2>趣味</h2>
+        <ul>
+            <li>
+                <strong>映画鑑賞:</strong>
+                ジャンルを問わず様々な映画を観るのが好きです。特にSFやアクション映画には目がありません。
+                最近観て面白かったのは「デューン 砂の惑星 PART2」です。あの壮大な世界観には引き込まれました。
+            </li>
+            <li>
+                <strong>筋トレ:</strong>
+                週に3〜4回ジムに通い、健康維持と体力向上に励んでいます。
+                ベンチプレス、スクワット、デッドリフトのBIG3を中心にトレーニングしています。
+                目標は、体脂肪率を維持しつつ、もっと筋肉を大きくすることです！
+            </li>
+        </ul>
+
+        <h2>その他</h2>
+        <p>
+            最近はプログラミング学習に熱中しており、特にWeb開発に興味を持っています。
+            HTML, CSS, JavaScriptといったフロントエンド技術の習得に日々励んでおり、
+            将来的には、ユーザーにとって使いやすく、見た目にも美しいWebサイトを構築できるエンジニアになりたいと考えています。
+        </p>
+        <p>
+            新しい知識を学ぶこと、そしてそれを形にすることが大好きです。
+            このホームページも、Web開発の学習の一環として作成しました。
+            これからもっと技術を磨き、色々なプロジェクトに挑戦していきたいと思っています。
+        </p>
+
+        <div class="footer">
+            <p>&copy; 2025 Shoutarou Matsushita. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
